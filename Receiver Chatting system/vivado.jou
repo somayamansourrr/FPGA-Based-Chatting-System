@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Sun Sep  4 19:49:12 2022
+# Process ID: 10536
+# Current directory: C:/Users/Somaya/Desktop/Final Projects/Receiver Chatting system
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent22744 C:\Users\Somaya\Desktop\Final Projects\Receiver Chatting system\Receiver.xpr
+# Log file: C:/Users/Somaya/Desktop/Final Projects/Receiver Chatting system/vivado.log
+# Journal file: C:/Users/Somaya/Desktop/Final Projects/Receiver Chatting system\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/Somaya/Desktop/Final Projects/Receiver Chatting system/Receiver.xpr}
+update_compile_order -fileset sources_1
